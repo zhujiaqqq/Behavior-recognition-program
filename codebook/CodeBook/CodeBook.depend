@@ -1,0 +1,334 @@
+# depslib dependency file v1.0
+1485227862 source:d:\opencvworkspace\codebook\main.cpp
+	"CodeBook.h"
+
+1485237102 d:\opencvworkspace\codebook\codebook.h
+	<iostream>
+	"opencv2/opencv.hpp"
+
+1384335861 e:\opencvforcb\install\include\opencv2\opencv.hpp
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/photo/photo.hpp"
+	"opencv2/video/video.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/ml/ml.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/contrib/contrib.hpp"
+
+1407676989 e:\opencvforcb\install\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1404644518 e:\opencvforcb\install\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+	"tegra_round.hpp"
+	"emmintrin.h"
+
+1407676989 e:\opencvforcb\install\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	<sstream>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1411279289 e:\opencvforcb\install\include\opencv2\core\version.hpp
+
+1411884004 e:\opencvforcb\install\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<limits>
+
+1407676989 e:\opencvforcb\install\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1384335862 e:\opencvforcb\install\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1384335862 e:\opencvforcb\install\include\opencv2\flann\defines.h
+	"config.h"
+
+1384335862 e:\opencvforcb\install\include\opencv2\flann\config.h
+
+1393997242 e:\opencvforcb\install\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1384335862 e:\opencvforcb\install\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+
+1407676989 e:\opencvforcb\install\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1384335862 e:\opencvforcb\install\include\opencv2\photo\photo.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/photo/photo_c.h"
+
+1384335862 e:\opencvforcb\install\include\opencv2\photo\photo_c.h
+	"opencv2/core/core_c.h"
+
+1384335862 e:\opencvforcb\install\include\opencv2\video\video.hpp
+	"opencv2/video/tracking.hpp"
+	"opencv2/video/background_segm.hpp"
+
+1384335862 e:\opencvforcb\install\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+
+1386127365 e:\opencvforcb\install\include\opencv2\video\background_segm.hpp
+	"opencv2/core/core.hpp"
+	<list>
+
+1403422064 e:\opencvforcb\install\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1384335862 e:\opencvforcb\install\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/core/core.hpp"
+	<map>
+	<deque>
+
+1402809215 e:\opencvforcb\install\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/core/affine.hpp"
+
+1391487659 e:\opencvforcb\install\include\opencv2\core\affine.hpp
+	<opencv2/core/core.hpp>
+
+1385090554 e:\opencvforcb\install\include\opencv2\ml\ml.hpp
+	"opencv2/core/core.hpp"
+	<limits.h>
+	<map>
+	<string>
+	<iostream>
+
+1395718202 e:\opencvforcb\install\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1384335862 e:\opencvforcb\install\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1402809215 e:\opencvforcb\install\include\opencv2\contrib\contrib.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/contrib/retina.hpp"
+	"opencv2/contrib/openfabmap.hpp"
+
+1384335862 e:\opencvforcb\install\include\opencv2\contrib\retina.hpp
+	"opencv2/core/core.hpp"
+	<valarray>
+
+1384335862 e:\opencvforcb\install\include\opencv2\contrib\openfabmap.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	<vector>
+	<list>
+	<map>
+	<set>
+	<valarray>
+
+1485237671 source:d:\opencvworkspace\codebook\codebook.cpp
+	"CodeBook.h"
+
+1485345128 source:e:\qt_test\codebook\main.cpp
+	"CodeBook.h"
+	"opencv2/opencv.hpp"
+
+1485340260 e:\qt_test\codebook\codebook.h
+	<iostream>
+	"opencv2/opencv.hpp"
+
+1384335861 e:\opencv4cb\install\include\opencv2\opencv.hpp
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/photo/photo.hpp"
+	"opencv2/video/video.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/ml/ml.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/contrib/contrib.hpp"
+
+1407676989 e:\opencv4cb\install\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1404644518 e:\opencv4cb\install\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+	"tegra_round.hpp"
+	"emmintrin.h"
+
+1407676989 e:\opencv4cb\install\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	<sstream>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1411279289 e:\opencv4cb\install\include\opencv2\core\version.hpp
+
+1411884004 e:\opencv4cb\install\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<limits>
+
+1407676989 e:\opencv4cb\install\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1384335862 e:\opencv4cb\install\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1384335862 e:\opencv4cb\install\include\opencv2\flann\defines.h
+	"config.h"
+
+1384335862 e:\opencv4cb\install\include\opencv2\flann\config.h
+
+1393997242 e:\opencv4cb\install\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1384335862 e:\opencv4cb\install\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+
+1407676989 e:\opencv4cb\install\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1384335862 e:\opencv4cb\install\include\opencv2\photo\photo.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/photo/photo_c.h"
+
+1384335862 e:\opencv4cb\install\include\opencv2\photo\photo_c.h
+	"opencv2/core/core_c.h"
+
+1384335862 e:\opencv4cb\install\include\opencv2\video\video.hpp
+	"opencv2/video/tracking.hpp"
+	"opencv2/video/background_segm.hpp"
+
+1384335862 e:\opencv4cb\install\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+
+1386127365 e:\opencv4cb\install\include\opencv2\video\background_segm.hpp
+	"opencv2/core/core.hpp"
+	<list>
+
+1403422064 e:\opencv4cb\install\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1384335862 e:\opencv4cb\install\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/core/core.hpp"
+	<map>
+	<deque>
+
+1402809215 e:\opencv4cb\install\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/core/affine.hpp"
+
+1391487659 e:\opencv4cb\install\include\opencv2\core\affine.hpp
+	<opencv2/core/core.hpp>
+
+1385090554 e:\opencv4cb\install\include\opencv2\ml\ml.hpp
+	"opencv2/core/core.hpp"
+	<limits.h>
+	<map>
+	<string>
+	<iostream>
+
+1395718202 e:\opencv4cb\install\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1384335862 e:\opencv4cb\install\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1402809215 e:\opencv4cb\install\include\opencv2\contrib\contrib.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/contrib/retina.hpp"
+	"opencv2/contrib/openfabmap.hpp"
+
+1384335862 e:\opencv4cb\install\include\opencv2\contrib\retina.hpp
+	"opencv2/core/core.hpp"
+	<valarray>
+
+1384335862 e:\opencv4cb\install\include\opencv2\contrib\openfabmap.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	<vector>
+	<list>
+	<map>
+	<set>
+	<valarray>
+
+1485341045 source:e:\qt_test\codebook\codebook.cpp
+	"CodeBook.h"
+
